@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-- I am a professor for Management in Digital Healtcare at Deggendorf Institute of Technology. I research Data Quality and Digital Business Models in Healthcare
+I am a professor for Management in Digital Healtcare at Deggendorf Institute of Technology. I research Data Quality and Digital Business Models in Healthcare
 
 
 #### Teaching
 
 |  Winter    | Summer     |
 |---         |---         |
-| [GBAC (HI)](https://github.com/dominikb1888/GBAC)  | PRPR (HI)  |  
-| INCO (HI)  | ITPM (HI)  |
-|            | FOHI (HI)  |
-|            |             
-| DGPH (GPH) | KNBS (GPH) |
-| COSY (GPH) |            |
+| [GBAC (HI)](https://github.com/dominikb1888/GBAC)  | [PRPR (HI)](https://github.com/dominikb1888/PRPR)  |  
+| [INCO (HI)](https://github.com/dominikb1888/GBAC)  | ITPM (HI)  |
+|                                                    | FOHI (HI)  |
+|                                                    |             
+| [DGPH (GPH)](https://github.com/dominikb1888/GDPH) | [KNBS (GPH)](https://github.com/dominikb1888/GBAC) |
+| [COSY (GPH)](https://github.com/dominikb1888/COSY) |            |
 
 
 
 #### 🔭 Projects
+
 I’m currently working on a Data Quality Framework and Database to enable data normalization for wearable devices in cardiology.
+
 
 #### Bachelor and Master Theses
 
