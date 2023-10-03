@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**dominikb1888/dominikb1888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a professor for Management in Digital Healtcare at Deggendorf Institute of Technology. I research Data Quality and Digital Business Models in Healthcare
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Teaching
+
+|  Winter    | Summer     |
+|---         |---         |
+| [GBAC (HI)](https://github.com/dominikb1888/GBAC)  | PRPR (HI)  |  
+| INCO (HI)  | ITPM (HI)  |
+|            | FOHI (HI)  |
+|            |             
+| DGPH (GPH) | KNBS (GPH) |
+| COSY (GPH) |            |
+
+
+
+#### 🔭 Projects
+I’m currently working on a Data Quality Framework and Database to enable data normalization for wearable devices in cardiology.
+
+#### Bachelor and Master Theses
+
+- Literate Reviews and Meta Reviews on Data Quality in Wearables for different indiciations (current focus: cardiology)
+- Design Projects to create normalization algorithms
+- Experimental Projects to test adoption of digital services across the patient journey (current focus: cardiology)
+
+
+#### 📫 How to reach me: 
+
+THD students: via MS Teams
+Everybody else: via LinkedIN (https://www.linkedin.com/in/dominikb1888/)
