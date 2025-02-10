@@ -7,9 +7,9 @@ I am a professor for Management in Digital Healtcare at Deggendorf Institute of 
 
 |  Winter    | Summer     |
 |---         |---         |
-| [GBAC (HI)](https://github.com/dominikb1888/GBAC)  | [PRPR (HI)](https://github.com/dominikb1888/SWEN)  |  
+| [GBAC (HI)](https://github.com/dominikb1888/GBAC)  | [SWEN (HI)](https://github.com/dominikb1888/SWEN)  |  
 | [INCO (HI)](https://github.com/dominikb1888/INCO)  | [FOHI (HI)](https://github.com/dominikb1888/FOHI)  |
-|                                                    |  |    
+|  |   |
 | [DGPH (GPH)](https://github.com/dominikb1888/GDPH) | [KNBS (GPH)](https://github.com/dominikb1888/GBAC) |
 | [COSY (GPH)](https://github.com/dominikb1888/COSY) |  |
 
