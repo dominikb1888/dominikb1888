@@ -30,4 +30,4 @@ I’m currently working on a Data Quality Framework and Database to enable data 
 #### 📫 How to reach me: 
 
 - THD students: via MS Teams
-- Everybody else: via LinkedIN (https://www.linkedin.com/in/dominikb1888/)
+- Everybody else: via Email
